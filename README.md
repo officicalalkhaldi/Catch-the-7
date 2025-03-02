@@ -3,7 +3,7 @@
 
 # Catch the Seven
 
-* a grid-based chase game where you control **player2** to catch **player7** before it escapes! The game is played on an 8x8 grid, with **player7** moving randomly and **player2** moving based on your input. The goal is to catch **player7** within 20 turns.
+* a grid-based chase game where you control **player2** to catch **player7** before it escapes! The game is played on an 8x8 grid, with **player7** moving randomly and **player2** moving based on your input. The goal is to catch **player7** within 200 turns.
 
 
 
